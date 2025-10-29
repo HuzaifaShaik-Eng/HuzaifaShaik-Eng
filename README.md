@@ -9,7 +9,7 @@
 
 ### 🧰 Tech Toolbox
 🧩 **Languages & Tools:**  
-`Linux` | `Docker` | `Kubernetes` | `Terraform` | `AWS` | `Azure` | `Jenkins` | `GitHub Actions` | `Ansible` | `Prometheus` | `Grafana`  
+`Linux` | `Docker` | `Kubernetes` | `Terraform` | `AWS` | `Azure` | `Jenkins` | `GitHub Actions` | `Ansible`  
 
 ---
 
